@@ -1,5 +1,3 @@
-# referralcoin-docs
-ReferralCoin ($RFL) – A Web3-powered referral reward token. Pay and earn with $RFL for smart referrals in recruiting, sales, and now: AI-generated content creation.
  ReferralCoin ($RFL)
 
 **ReferralCoin ($RFL)** is a Web3-powered referral reward token built on the Solana blockchain. With $RFL, users can earn tokens for successful recommendations in **recruiting**, **sales**, and now also through **AI-generated content creation**.
